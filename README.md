@@ -1,4 +1,4 @@
-# Symon Game
+# Simon Game
 
 Welcome to the Simon Game repository! This is a simple and classic game built with HTML, CSS, and JavaScript (jQuery).
 
@@ -19,3 +19,14 @@ You can play the game online by visiting the following link: [Simon Game](https:
 2. **Start:** Press the "A" key to initiate the game.
 
 Feel free to explore the code and have fun playing the Simon Game!
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+_Home Screen_
+
+![Screenshot 2](screenshots/level4.png)
+_Level 4_
+
+![Screenshot 3](screenshots/screenshot2.png)
+_Game Over_
